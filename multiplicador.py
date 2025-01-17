@@ -3,3 +3,6 @@ def doblar(a):
 
 def triple(a):
   return a**3
+
+def quadruple(a):
+  return a**4
